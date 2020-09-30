@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: Dockersampleconfig
+        app: policymicroservice
     spec:
       containers:
       - name: policyrepos
