@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BsJo2YqM2qeuw6QbFVlStICEDtUnRKjDeY583zDf9dP9uPysMWDeN04WNWTGBMfR83jOPsQyz028mtMyAzuZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saurav\\Desktop\\Final project\\policymicroservice\\policymicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saurav\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
